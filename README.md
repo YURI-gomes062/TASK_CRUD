@@ -1,7 +1,3 @@
-# -------------------
-# - CRUD SIMPLE -
-# -------------------
+# CRUD BASIC
+ 
 
-## Back_end = " PHP "
-
-## Database = " MYSQL "
